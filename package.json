@@ -16,6 +16,9 @@
     "start": "node ./src/index.js",
     "dev": "nodemon ./src/index.js"
   },
+  "engines": {
+    "node":"12.14.0"
+  },
   "author": "Emad",
   "license": "MIT"
 }
